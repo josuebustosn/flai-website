@@ -290,7 +290,7 @@ export default function App() {
                 <div>
                   <div className="mb-8">
                     <h3 className="text-xl font-semibold mb-2 text-[#0A1931]">Dirección</h3>
-                    <p>Carrera 18 entre calles 9 y 10, local 9-125, Barrio Obrero, San Cristóbal, Estado Táchira, Venezuela.</p>
+                    <p>Carrera 18 entre calles 9 y 10, local 9-125, San Cristóbal, Táchira 5001, Venezuela</p>
                   </div>
                   <div className="mb-8">
                     <h3 className="text-xl font-semibold mb-2 text-[#0A1931]">Teléfonos</h3>
@@ -348,7 +348,7 @@ export default function App() {
             <div>
               <h3 className="text-lg font-semibold text-[#0A1931] mb-4">Hablemos</h3>
               <ul className="space-y-2 text-gray-600">
-                <li>Carrera 18 entre calles 9 y 10, local 9-125, Barrio Obrero, San Cristóbal, Venezuela</li>
+                <li>Carrera 18 entre calles 9 y 10, local 9-125, San Cristóbal, Táchira 5001, Venezuela</li>
                 <li>+58 (276) 356.61.88 | +58 (424) 714.00.87</li>
                 <li>flai.binatur@gmail.com</li>
               </ul>
