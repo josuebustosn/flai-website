@@ -204,7 +204,7 @@ export default function App() {
                 <div className="lg:w-1/2">
                   <h2 className="text-3xl md:text-4xl font-bold mb-6 text-[#0A1931]">Nacimos para cambiarlo todo.</h2>
                   <p className="mb-6 text-lg">
-                    Somos flai. Más que una agencia, somos un movimiento. Nacimos de la pasión por viajar y la frustración con lo tradicional. Con una presencia digital que impacta a miles, nos hemos convertido en la referencia de viajes para una nueva generación en el occidente de Venezuela.
+                    Somos flai (También conocidos como Agencia de Viajes Binatur Internacional). Más que una agencia, somos un movimiento. Nacimos de la pasión por viajar y la frustración con lo tradicional. Con una presencia digital que impacta a miles, nos hemos convertido en la referencia de viajes para una nueva generación en el occidente de Venezuela.
                   </p>
                   <p className="text-lg">
                     No solo vendemos destinos, creamos experiencias y construimos comunidad. Creemos en un futuro donde planificar tu viaje sea tan emocionante como vivirlo. Y estamos aquí para construirlo.
@@ -290,7 +290,7 @@ export default function App() {
                 <div>
                   <div className="mb-8">
                     <h3 className="text-xl font-semibold mb-2 text-[#0A1931]">Dirección</h3>
-                    <p>Carrera 18 entre calles 9 y 10, local 9-125, San Cristóbal, Táchira 5001, Venezuela</p>
+                    <p>Carrera 18 entre calles 9 y 10, local 9-125, Barrio Obrero, San Cristóbal, Táchira 5001, Venezuela</p>
                   </div>
                   <div className="mb-8">
                     <h3 className="text-xl font-semibold mb-2 text-[#0A1931]">Teléfonos</h3>
@@ -348,7 +348,7 @@ export default function App() {
             <div>
               <h3 className="text-lg font-semibold text-[#0A1931] mb-4">Hablemos</h3>
               <ul className="space-y-2 text-gray-600">
-                <li>Carrera 18 entre calles 9 y 10, local 9-125, San Cristóbal, Táchira 5001, Venezuela</li>
+                <li>Carrera 18 entre calles 9 y 10, local 9-125, Barrio Obrero, San Cristóbal, Táchira 5001, Venezuela</li>
                 <li>+58 (276) 356.61.88 | +58 (424) 714.00.87</li>
                 <li>flai.binatur@gmail.com</li>
               </ul>
@@ -363,7 +363,7 @@ export default function App() {
           </div>
           <hr className="my-8 border-gray-200" />
           <div className="text-center text-gray-500 text-sm">
-            © 2025 Agencia de Viajes 'flai'. | Todos los derechos reservados.
+            © 2025 Agencia de Viajes Binatur Internacional. | Todos los derechos reservados.
           </div>
         </div>
       </footer>
